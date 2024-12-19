@@ -49,8 +49,8 @@
             bindings = <
 &kp Q             &kp W         &kp E         &kp R             &kp T                                             &kp Y        &kp U  &lt 5 I    &kp O    &kp P
 &kp A             &kp S         &kp D         &kp F             &kp G        &trans                &kp MINUS      &kp H        &kp J  &kp K      &kp L    &kp SQT
-&mt LEFT_SHIFT Z  &kp X         &kp C         &kp V             &kp B        &lt 4 COLON           &kp ENTER      &kp N        &kp M  &kp COMMA  &kp DOT  &kp SLASH
-&kp LEFT_SHIFT    &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 INT_HENKAN  &lt 2 SPACE  &kp LEFT_WIN    &mkp LCLK      &mkp RCLK                               &kp BACKSPACE 
+&mt LEFT_SHIFT Z  &kp X         &kp C         &kp V             &kp B        &mkp RCLK             &kp ENTER      &kp N        &kp M  &kp COMMA  &kp DOT  &kp SLASH
+&kp LEFT_SHIFT    &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 CAPSLOCK  &lt 2 SPACE  &mkp LCLK             &kp ENTER      &lt 2 SPACE                             &kp BACKSPACE 
             >;
 
             sensor-bindings =
