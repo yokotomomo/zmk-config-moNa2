@@ -52,7 +52,7 @@
 &kp Q             &kp W         &kp E         &kp R           &kp T                                                     &kp Y      &kp U  &lt 5 I    &kp O    &kp P
 &kp A             &kp S         &kp D         &kp F           &kp G        &trans                        &kp MINUS      &kp H      &kp J  &kp K      &kp L    &kp SQT
 &mt LEFT_SHIFT Z  &kp X         &kp C         &kp V           &kp B        &lt 4 COLON                   &kp SEMICOLON  &kp N      &kp M  &kp COMMA  &kp DOT  &kp SLASH
-&kp LEFT_SHIFT    &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 CAPSLOCK  &lt 2 SPACE  &mt RG(LEFT_COMMAND) SPACE    &mkp LCLK      &mkp RCLK                             &kp DEL
+&kp LEFT_SHIFT    &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 CAPSLOCK  &lt 2 SPACE  &mt RG(LEFT_COMMAND) SPACE    &mkp LCLK      &mkp RCLK                             &kp DELETE
             >;
 
             sensor-bindings =
